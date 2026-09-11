@@ -20,3 +20,4 @@ golink [nombre_del_archivo].obj kernel32.dll /fo [nombre_del_archivo].exe /conso
 
 Salida esperada con los elementos del arreglo [10, 20, 30,... 100]
 
+![Resultado del programa](salida.png)
